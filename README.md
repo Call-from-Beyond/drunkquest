@@ -15,74 +15,50 @@ A equipe **Call from Beyond** está trabalhando atualmente no jogo de RPG de ave
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [ ] Inventário intuitivo
+- [ ] Sistema de compra de itens nas tavernas
+- [ ] Sidequests
 
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `.NET Framework, DirectX`
-* Você tem uma máquina `<Windows / Linux / Mac>`.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você tem uma máquina `<Windows / Linux>`.
 
 ## 🚀 Instalando Drunk Quest
 
 Para instalar Drunk Quest, siga estas etapas:
 
-Linux e macOS:
+Para Linux:
+
+Instale o Wine em seu sistema antes de rodar o executável de instalação:
+
+No Archlinux: 
 ```
-<comando_de_instalação>
+sudo pacman -S wine
+```
+
+No Ubuntu: 
+```
+sudo apt updatesudo apt install wine
 ```
 
 Windows:
-```
-<comando_de_instalação>
-```
+Clique duas vezes no executável de instalação e siga o passo-a-passo proposto.
 
 ## ☕ Usando Drunk Quest
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para jogar Drunk Quest siga estas etapas:
 
-```
-<exemplo_de_uso>
-```
-
+* Leia com atenção todas as instruções presentes na fase inicial do jogo.
+* Leia as conversas entre seu personagem e NPCs para entender melhor o progresso da narrativa.
+* Prossiga de taverna em taverna, fale com NPCs, lute com outros bêbados e complete as missões até chegar no final.
 
 ## 🤝 Colaboradores
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Mark Zuckerberg</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<img height="250cm" src="logo_light.png"/>
 
 ## 📝 Licença
 

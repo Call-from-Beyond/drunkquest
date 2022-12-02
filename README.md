@@ -1,17 +1,14 @@
-<h1 align="left">
+<div align="center">
    <img height="250cm" src="logo_light.png"/>
-</h1>
+   <h1>
+   </h1>
+</div>
 
-A equipe **Call from Beyond** está trabalhando atualmente no jogo de RPG de aventura em plataforma Drunk Quest, onde você joga como **Bill Boêmio**, um simples faxineiro em uma pequena taverna de sua vila que recebe um chamado para aventura quando um forasteiro desconhecido entra na taverna falando a respeito de uma bebida mágica e lendária: O Hidromel dos Deuses
+<div align="center">
+A equipe <b>Call from Beyond</b> está trabalhando atualmente no jogo de RPG de aventura em plataforma Drunk Quest, onde você joga como <b>Bill Boêmio</b>, um simples faxineiro em uma pequena taverna de sua vila que recebe um chamado para aventura quando um forasteiro desconhecido entra na taverna falando a respeito de uma bebida mágica e lendária: O Hidromel dos Deuses
+</div>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-
-
-### Ajustes e melhorias
+### 🚀 Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -26,13 +23,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `.NET Framework, DirectX`
 * Você tem uma máquina `<Windows / Linux>`.
 
-## 🚀 Instalando Drunk Quest
+## ☕ Instalando Drunk Quest
 
 Para instalar Drunk Quest, siga estas etapas:
 
-Para Linux:
 
-Instale o Wine em seu sistema antes de rodar o executável de instalação:
+Para Linux, instale o Wine em seu sistema antes de rodar o executável de instalação.
 
 No Archlinux: 
 ```
@@ -45,9 +41,11 @@ sudo apt updatesudo apt install wine
 ```
 
 Windows:
+```
 Clique duas vezes no executável de instalação e siga o passo-a-passo proposto.
+```
 
-## ☕ Usando Drunk Quest
+## 👾 Jogando Drunk Quest
 
 Para jogar Drunk Quest siga estas etapas:
 
@@ -58,7 +56,7 @@ Para jogar Drunk Quest siga estas etapas:
 ## 🤝 Colaboradores
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<img height="250cm" src="logo_light.png"/>
+<img height="500cm" src="2.png"/><img height="500cm" src="3.png"/><img height="500cm" src="4.png"/><img height="500cm" src="5.png"/><img height="500cm" src="6.png"/><img height="500cm" src="7.png"/><img height="500cm" src="8.png"/><img height="500cm" src="9.png"/>
 
 ## 📝 Licença
 

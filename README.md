@@ -56,7 +56,11 @@ Para jogar Drunk Quest siga estas etapas:
 ## 🤝 Colaboradores
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
+### A Equipe
 <img height="500cm" src="2.png"/><img height="500cm" src="3.png"/><img height="500cm" src="4.png"/><img height="500cm" src="5.png"/><img height="500cm" src="6.png"/><img height="500cm" src="7.png"/><img height="500cm" src="8.png"/><img height="500cm" src="9.png"/>
+
+### Os Apoiadores
+Adicionar depois
 
 ## 📝 Licença
 
